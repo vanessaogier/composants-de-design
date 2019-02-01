@@ -1,0 +1,47 @@
+.section {
+  justify-content: center;
+  text-align: center;
+  padding-left: 5cm;
+}
+.blockquote {
+  font-family: "ff-meta-web-pro", "PT Sans", "Lucida Grande", "Lucida Sans",
+    "Lucida", Verdana, "Droid Sans", sans-serif;
+  font-style: italic;
+  height: 3cm;
+  display: flex;
+}
+* {
+  box-sizing: border-box;
+}
+user agent stylesheet blockquote {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 64px;
+  margin-inline-end: 64px;
+}
+.commentaire {
+  display: flex;
+  font-family: "ff-meta-web-pro", "PT Sans", "Lucida Grande", "Lucida Sans",
+    "Lucida", Verdana, "Droid Sans", sans-serif;
+  font-style: italic;
+  font-size: 22px;
+}
+p {
+  font-family: "ff-meta-web-pro", "PT Sans", "Lucida Grande", "Lucida Sans",
+    "Lucida", Verdana, "Droid Sans", sans-serif;
+  font-style: italic;
+  font-size: 22px;
+}
+
+.com1 {
+  color: #5cc;
+  padding-left: 5cm;
+}
+.com2 {
+  padding-left: 0.2cm;
+}
+pa .section {
+  display: flex;
+  flex-direction: column;
+}

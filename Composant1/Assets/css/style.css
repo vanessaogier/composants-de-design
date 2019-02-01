@@ -1,0 +1,34 @@
+.footer-bottom {
+  width: 1291px;
+  height: 80px;
+  font-family: "arial", sans-serif;
+  display: flex;
+  background-color: #f9f3ef;
+}
+.pull-left {
+  font-family: "arial", sans-serif;
+  font-size: 14px;
+}
+.Ensemble-footer {
+  display: flex;
+}
+.social_links {
+  display: flex;
+  padding-left: 22px;
+}
+.page_links {
+  display: flex;
+  padding-left: 18cm;
+}
+a {
+  text-decoration: none;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  font-size: 14px;
+  padding-left: 22px;
+}
+ul {
+  text-decoration: none;
+  list-style: none;
+}

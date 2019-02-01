@@ -1,0 +1,14 @@
+.row {
+  max-width: 640px;
+}
+.row {
+  margin: 0 auto;
+  max-width: 62.5rem;
+  width: 100%;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  background: #17222b;
+}
